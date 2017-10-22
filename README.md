@@ -1,6 +1,6 @@
 FreeNet
 =========
-C# Network library. Asynchronous. TCP. GameServer.
+원 FreeNet 라이브러리는 .Net framework 3.5기반으로 작성되어있었는데, .Net standard 2.0기반으로 포팅하기 위한 저장소 입니다.
 
 Version
 ----------
